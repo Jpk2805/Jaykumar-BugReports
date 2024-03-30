@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: 'Bot for suggestion '
+about: Adding a online helper bot
 title: Feature
 labels: enhancement
 assignees: Jpk2805
@@ -8,7 +8,7 @@ assignees: Jpk2805
 ---
 
 **Is your feature request related to a problem? Please describe.**
-In Amazon online store we cannot ask for any suggestions.
+In websites that teaches like freecodecamp.org should add a bot that can take any learner's questions and answer them.
 
-**Describe the solution you'd like**
-If they were to add a chat bot for buying and suggesting product it would really be nice.
+**Additional context**
+This bot will really help learner to clear their concepts deeply
