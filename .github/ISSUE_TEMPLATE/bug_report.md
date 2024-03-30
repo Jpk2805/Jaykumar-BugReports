@@ -1,32 +1,29 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: BUG
-labels: bug
-assignees: Jpk2805
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
 **Describe the bug**
-On one the well-known platform Udemy which is for learning, when i started a course lecture videos on it and when i paused it then come back after a while the video don't seem to start it only starts when i refresh the whole page.
+When i applied on the part-time job for McDonald's i went on their website and there was a chat bot for application and when i started giving every information there was a bug that i could not get to the next question only when i type something random the next question will show up.
 
 **To Reproduce**
 Steps to reproduce the behavior:
-1. Go to 'https://www.udemy.com/'
-2. preview one of the course preview lecture.
-3. pause it and come back after some time.
-4. try hitting space or click on the video or hit the play button.
-5. see the error.
+1. Go to 'https://www.mchire.com/home'
+2. Click on 'apply for job'
+3. give answer as the bot says.
+4. See error
 
 **Expected behavior**
-I expect to behave it to play the video.
+A clear and concise description of what you expected to happen.
 
- - OS: [laptop]
- - Browser [e.g. chrome, safari, Edge]
+**Desktop (please complete the following information):**
+ - OS: [e.g. Windows]
+ - Browser [Edge]
  - Version [Any]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS 11]
- - Browser [e.g. stock browser, safari]
- - Version [Any]
+**Additional context**
+When i entered something random it started working again and the random thing appeared after the next question.
