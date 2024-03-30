@@ -11,4 +11,4 @@ assignees: Jpk2805
 In websites that teaches like freecodecamp.org should add a bot that can take any learner's questions and answer them.
 
 **Additional context**
-This bot will really help learner to clear their concepts deeply
+This bot will really help learner to clear their concepts deeply.
